@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a55ace5eec39dc42b3b0e2139fccfc8, type: 3}
+  m_Name: Mirror
+  m_EditorClassIdentifier: 
+  title: Mirror
+  description: Reflects an Enemy attack
+  cost: 2
+  damage: 1
+  damageType: 0
+  cardImage: {fileID: 21300000, guid: 87f183630a012194090567061de3c973, type: 3}
+  frameImage: {fileID: 21300000, guid: 941ac0440efe575449a7a6f3a7d050bc, type: 3}
+  numberInDeck: 2
+  isDefenceCard: 1
+  isMirrorCard: 1
+  isMulti: 0
